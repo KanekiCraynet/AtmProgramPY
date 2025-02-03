@@ -40,8 +40,8 @@ The program is designed with modularity and scalability in mind. It features rob
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/atm-simulation.git
-   cd atm-simulation
+   git clone https://github.com/KanekiCraynet/AtmProgramPY.git
+   cd AtmProgramPY
    ```
 
 2. **Create a Virtual Environment (Optional but recommended):**
